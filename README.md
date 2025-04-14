@@ -63,8 +63,9 @@
 
 | Project | Description | Tech Stack |
 |---------|-------------|------------|
-| [Portfolio Website](https://danny-quezada.web.app/) | Professional showcase with interactive elements | Astro |
+| [Portfolio Website](https://danny-quezada.web.app/) | Professional showcase with interactive elements | React, Framer Motion |
 | [DANVENTORY](https://github.com/Danny-Quezada/DANVENTORY)  | Inventory Manager AI | Flutter, Supabase, Firebase (login) |
+| [DANVENTORY WEB](https://github.com/Danny-Quezada/DANVENTORY-WEB)  | Inventory Manager AI WEB | React, Supabase, Zustand |
 | [MIQUE](https://github.com/Danny-Quezada/MIQUE)| Manage income and expenses by implementing AI | Flutter, Firebase |
 | [GanadoControl](https://github.com/Danny-Quezada/GanadoControl)| Manage income and expenses by implementing AI | Flutter, SQL SERVER, ASP .NET CORE |
 
