@@ -14,12 +14,19 @@
 </p>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=4000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Mobile+App+Developer;Frontend+Developer;Continuous+Learner+%7C+Open+Source+Enthusiast;Turning+Coffee+Into+Clean+Code+Since+2020" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=4000&pause=1000&color=58A6FF&center=true&vCenter=true&width=650&lines=Mobile+App+Developer;Full-Stack+Developer+at+Grupo+Intelector;IT+Infrastructure+Consultant;Open+Source+Enthusiast;Writing+Clean+Code+Since+2020" alt="Typing SVG" />
 </div>
 
 ---
 
-### 🛠️ Technical Arsenal
+### 🏢 Professional Status
+
+- 💼 **Currently at:** Grupo Intelector  
+- 🎯 **Role:** IT Infrastructure Consultant  
+
+---
+
+### 🛠️ Tech Stack
 
 #### **Mobile Development**
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
@@ -31,22 +38,23 @@
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![Astro](https://img.shields.io/badge/Astro-FF5D01?style=for-the-badge&logo=astro&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 
 #### **Backend & Databases**
 ![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
 
-#### **Tools & DevOps**
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+#### **Infrastructure & Tools**
+![VMware](https://img.shields.io/badge/VMware-607078?style=for-the-badge&logo=vmware&logoColor=white)
+![Proxmox](https://img.shields.io/badge/Proxmox-E57000?style=for-the-badge&logo=proxmox&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
 ---
 
-### 📈 GitHub Analytics
+### 📈 GitHub Activity
 
 <p align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=danny-quezada&show_icons=true&theme=vision-friendly-dark&include_all_commits=true&count_private=true"/>
@@ -59,29 +67,28 @@
 
 ---
 
-### 🚢 Latest Projects
+### 🚢 Featured Projects
 
-| Project | Description | Tech Stack |
-|---------|-------------|------------|
-| [Portfolio Website](https://danny-quezada.web.app/) | Professional showcase with interactive elements | React, Framer Motion |
-| [DANVENTORY](https://github.com/Danny-Quezada/DANVENTORY)  | Inventory Manager AI | Flutter, Supabase, Firebase (login) |
-| [DANVENTORY WEB](https://github.com/Danny-Quezada/DANVENTORY-WEB)  | Inventory Manager AI WEB | React, Supabase, Zustand |
-| [MIQUE](https://github.com/Danny-Quezada/MIQUE)| Manage income and expenses by implementing AI | Flutter, Firebase |
-| [GanadoControl](https://github.com/Danny-Quezada/GanadoControl)| Manage income and expenses by implementing AI | Flutter, SQL SERVER, ASP .NET CORE |
+| Project | Description | Tech |
+|---------|-------------|------|
+| [Portfolio Website](https://danny-quezada.web.app/) | Personal interactive portfolio | React, Framer Motion |
+| DANVENTORY | AI-powered inventory manager | Flutter, Supabase |
+| DANVENTORY WEB | Inventory system (Web Version) | React, Zustand |
+| MIQUE | Personal finance manager with AI | Flutter, Firebase |
+| GanadoControl | Livestock management system | Flutter, SQL Server, .NET Core |
 
 ---
 
-### 📚 Continuous Learning Path
+### 📚 Currently Learning
 
-- **Currently Mastering**: 
-  ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
-  ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
 
+---
 
-### 💡 Development Philosophy
+### 💡 Philosophy
 
-> *"Clean code is not written by following rules. It's written through years of practice and continuous learning."*  
-> – Striving to write maintainable solutions while staying updated with industry trends
+> *"Clean code is not about perfection — it's about purpose, clarity, and continuous improvement."*
 
 ---
 
